@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">حاسبة بسيطه</string>
+    <string name="first_txt">الرقم الأول</string>
+    <string name="second_txt">الرقم الثاني</string>
+    <string name="calc">احسب</string>
+    <string name="res">الناتج هو : </string>
+</resources>
