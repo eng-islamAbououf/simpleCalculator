@@ -9,6 +9,18 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 
+
+/*
+    - Toast instead of log to alert user
+    - Edit text accept text from suggestions
+    - When enter first number and click calculate two inputs cleared
+    - Why using gide line in UI
+    - Background in cardview not applied ?!
+    - Design destroyed in landscape
+    - Use onclick listner interface
+ */
+
+
 class MainActivity : AppCompatActivity() {
     lateinit var calculateBtn : Button
     lateinit var firstNumber : EditText
